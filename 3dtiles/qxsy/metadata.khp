@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<KQGeoFileConfig>
+    <metadataMD5>969e39818b47f6017d7091dd32b8d6da</metadataMD5>
+    <version>1</version>
+    <filetype>oblique</filetype>
+    <CRS>ENU:24.14466,107.24509</CRS>
+    <Position>10,20,50</Position>
+    <RootFiles>
+        <RootFile>
+            <FileName>Data/Tile_+011_+018/Tile_+011_+018.osgb</FileName>
+            <BoundingBox>-802.612060546875000,812.716491699218750,236.897140502929690,-567.594421386718750,1053.204101562500000,272.182922363281250</BoundingBox>
+        </RootFile>
+        <RootFile>
+            <FileName>Data/Tile_+011_+019/Tile_+011_+019.osgb</FileName>
+            <BoundingBox>-802.266906738281250,1012.985900878906200,240.836456298828120,-559.341247558593750,1255.812866210937500,287.503967285156250</BoundingBox>
+        </RootFile>
+        <RootFile>
+            <FileName>Data/Tile_+012_+018/Tile_+012_+018.osgb</FileName>
+            <BoundingBox>-604.570739746093750,812.815063476562500,237.801010131835940,-359.941558837890620,1053.308105468750000,279.351074218750000</BoundingBox>
+        </RootFile>
+        <RootFile>
+            <FileName>Data/Tile_+012_+019/Tile_+012_+019.osgb</FileName>
+            <BoundingBox>-599.955139160156250,1013.088989257812500,244.263458251953120,-359.944122314453120,1253.901855468750000,361.946258544921870</BoundingBox>
+        </RootFile>
+    </RootFiles>
+</KQGeoFileConfig>

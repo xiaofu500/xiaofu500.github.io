@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<TileModelRoot TileEx="0">
+    <Path>E:/server data/Data01/数据进入/倾斜摄影/osgb/Data/Tile_+011_+018</Path>
+    <CRS>UNKNOWNCS</CRS>
+    <Position>0.000000000000000,0.000000000000000,0.000000000000000</Position>
+    <TileModel>
+        <Name>Tile_+011_+018.osgb</Name>
+        <BoundingBox>-802.612060546875000,812.716491699218750,236.897140502929688,-567.594421386718750,1053.204101562500000,272.182922363281250</BoundingBox>
+    </TileModel>
+</TileModelRoot>
